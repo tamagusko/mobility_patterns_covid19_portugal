@@ -1,3 +1,5 @@
+# Repository under construction, additional information should be added soon.
+
 This repository contains the results of paper "Mobility patterns of the Portuguese population during the COVID-19 pandemic" submitted to JOURNAL.
 
 ## Basic info
