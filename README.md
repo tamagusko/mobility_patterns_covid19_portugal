@@ -1,4 +1,4 @@
-This repository contains the complementary resources of the paper "Data-Driven Approach to Understand the MobilityPatterns of the Portuguese Population during theCOVID-19 Pandemic".
+This repository contains the complementary resources of the paper "Data-Driven Approach to Understand the Mobility Patterns of the Portuguese Population during the COVID-19 Pandemic".
 
 © [Tiago Tamagusko](https://tamagusko.github.io)  
 Project Page: https://github.com/tamagusko/mobility_patterns_covid19_portugal  
