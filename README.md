@@ -3,7 +3,7 @@ This repository contains the complementary resources of the paper "[Data-Driven 
 © [Tiago Tamagusko](https://tamagusko.github.io)  
 Project Page: https://github.com/tamagusko/mobility_patterns_covid19_portugal  
 Doi: https://doi.org/10.3390/su12229775  
-Link to Journal: https://www.mdpi.com/2071-1050/12/22/9775  
+Paper: https://www.mdpi.com/2071-1050/12/22/9775  
 License: [CC-BY-NC-ND-4.0](/LICENSE)
 
 ## Abstract
