@@ -21,7 +21,7 @@ SARS-CoV-2 emerged in late 2019. Since then, it has spread to several countries,
 
 ## Citation
 
-Tamagusko, T. and Ferreira, A (2020). Data-Driven Approach to Understand the Mobility Patterns of the Portuguese Population during the COVID-19 Pandemic. Sustainability, 12, 9775. https://doi.org/10.3390/su12229775
+Tamagusko, T. and Ferreira, A. (2020). Data-Driven Approach to Understand the Mobility Patterns of the Portuguese Population during the COVID-19 Pandemic. Sustainability, 12, 9775. https://doi.org/10.3390/su12229775
 
 ```bibtex
 @article{Tamagusko-Ferreira2020,
