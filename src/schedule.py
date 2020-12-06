@@ -1,5 +1,5 @@
 '''
-Processes data from Google and Apple
+Processes data from Google Mobility Reports
 Author:  Tiago Tamagusko <tamagusko@gmail.com>
 Version: 0.5 (2020-12-06)
 License: CC-BY-NC-ND-4.0
