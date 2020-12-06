@@ -34,4 +34,4 @@ Tamagusko, T. and Ferreira, A. (2020). Data-Driven Approach to Understand the Mo
 
 ## License
 
-[CC-BY-NC-ND-4.0](LICENSE) © [tamagusko](https://tamagusko.github.io/).
+[CC-BY-NC-ND-4.0](LICENSE) (c) 2020, [Tiago Tamagusko](https://tamagusko.github.io/).
