@@ -2,7 +2,7 @@
 
 This repository contains the complementary resources of the paper "[Data-Driven Approach to Understand the Mobility Patterns of the Portuguese Population during the COVID-19 Pandemic](https://www.mdpi.com/2071-1050/12/22/9775)".
  
-Doi: https://doi.org/10.3390/su12229775
+Paper: https://doi.org/10.3390/su12229775
 
 ## Abstract
 
