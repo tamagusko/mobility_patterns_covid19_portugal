@@ -1,7 +1,8 @@
+# Mobility Patterns of the Portuguese Population during the COVID-19 Pandemic (paper) 
+
 This repository contains the complementary resources of the paper "[Data-Driven Approach to Understand the Mobility Patterns of the Portuguese Population during the COVID-19 Pandemic](https://www.mdpi.com/2071-1050/12/22/9775)".
 
-© [Tiago Tamagusko](https://tamagusko.github.io)  
-Project Page: https://github.com/tamagusko/mobility_patterns_covid19_portugal  
+© [Tiago Tamagusko](https://tamagusko.github.io)   
 Doi: https://doi.org/10.3390/su12229775  
 Paper: https://www.mdpi.com/2071-1050/12/22/9775  
 License: [CC-BY-NC-ND-4.0](/LICENSE)
@@ -33,3 +34,7 @@ Tamagusko, T. and Ferreira, A. (2020). Data-Driven Approach to Understand the Mo
   year = {2020}
 }
 ```
+
+## License
+
+[CC-BY-NC-ND-4.0](LICENSE) © [tamagusko](https://tamagusko.github.io/).
