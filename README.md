@@ -28,6 +28,7 @@ Tamagusko, T. and Ferreira, A. (2020). Data-Driven Approach to Understand the Mo
   title = "{Data-Driven Approach to Understand the Mobility Patterns of the Portuguese Population during the COVID-19 Pandemic}",
   keywords = {COVID-19 - mobility patterns - Rt - changepoint - modeling - Portugal},
   journal = {Sustainability},
+  doi = {10.3390/su12229775},
   year = {2020}
 }
 ```
